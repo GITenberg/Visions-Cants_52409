@@ -1,0 +1,28 @@
+_repo: Visions-Cants_52409
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maragall, Joan
+    aliases:
+    - Maragall i Gorina, Joan
+    - Maragall, Juan
+    - Gorina, Joan Maragall i
+    birthdate: 1860
+    deathdate: 1911
+    gutenberg_agent_id: '46842'
+    url: http://www.gutenberg.org/2009/agents/46842
+description: ''
+gutenberg_issued: '2016-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52409'
+language: ca
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catalan poetry'
+- !lcc 'PC'
+- GITenberg
+title: Visions & Cants
+url: http://www.gutenberg.org/ebooks/52409
